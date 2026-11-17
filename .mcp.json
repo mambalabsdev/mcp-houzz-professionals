@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-houzz-professionals": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-houzz-professionals"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
