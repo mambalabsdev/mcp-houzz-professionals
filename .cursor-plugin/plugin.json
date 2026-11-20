@@ -1,7 +1,7 @@
 {
   "name": "mcp-houzz-professionals",
   "displayName": "Houzz Professionals Directory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Houzz Professionals Directory: contractors and home services pros by category and city from Houzz.",
   "author": {
     "name": "Mamba Labs",
